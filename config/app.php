@@ -228,4 +228,7 @@ return [
 
     ],
 
+    'key_name' => env('API_KEY'),//追記
+
+
 ];
